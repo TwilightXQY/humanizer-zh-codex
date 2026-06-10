@@ -1,0 +1,6 @@
+interface:
+  display_name: "Humanizer zh"
+  short_description: "将中文文本改得更自然、更少 AI 痕迹。"
+  default_prompt: "Use $humanizer-zh to rewrite the following Chinese text so it sounds natural while preserving the original meaning."
+policy:
+  allow_implicit_invocation: true
